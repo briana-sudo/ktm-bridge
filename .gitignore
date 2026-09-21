@@ -1,0 +1,7 @@
+# Code only. No build artefacts, no probe output.
+build/
+dist/
+__pycache__/
+*.spec
+*.log
+KTM_Probe_Report.txt
